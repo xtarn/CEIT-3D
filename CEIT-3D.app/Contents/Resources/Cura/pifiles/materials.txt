@@ -1,0 +1,10 @@
+//Colour Material Hex Temp Diameter
+Yellow PLA #E1B700 226 2.7
+Green PLA #15992A 225 2.7
+Black PLA #000000 229 2.7
+Silver PLA #AFAFAF ? ?
+White PLA #FFFFFF 226 2.7
+Blue PLA #2572EB 227 2.7
+Clear PLA #FFFFFF 227 2.7
+Orange PLA #FF981D 225 2.7
+Red ABS #B81B1B 270 2.7
