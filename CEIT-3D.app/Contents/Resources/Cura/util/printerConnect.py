@@ -3,7 +3,7 @@ import os
 
 class printerConnect(object):
 	def __init__(self):
-		self.ftp = FTP('130.102.87.49')
+		self.ftp = FTP('ultimaker.ceit.uq.edu.au')
 		self.queueloc = os.path.normpath(os.path.normpath(os.path.join(os.path.split(__file__)[0], "../pifiles", 'queue.txt')))
 
 	def connect(self):
